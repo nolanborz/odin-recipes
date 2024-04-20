@@ -17,3 +17,12 @@ div {
     color: blue;
     background-color: aquamarine;
 }
+.ancientgear {
+    font-family:'Gill Sans MT', serif;
+    font-weight:500;
+    color:rgb(59, 65, 65);
+}
+div#ag-gameplay {
+    color:rgb(170, 124, 25);
+
+}
