@@ -1,10 +1,27 @@
-#some-recipes {
-    
-    background-color: beige;
+* {
+    box-sizing: border-box;
 }
-div {
-    color:rgb(165, 90, 47);
-    background-color: rgb(194, 194, 168);
+.some-recipes {
+    background-color: beige;
+    margin:10px;
+    border: 4px black dotted;
+    color: rgb(146, 15, 41);
+    
+    text-align: center;
+    
+    
+    
+}
+.recipeList {
+    color:rgb(131, 167, 162);
+    background-color: beige;
+    border: 2px black dotted;
+    
+    margin:10px;
+    padding: 5px;
+    width:auto
+    
+    
     
 }
 .stuffing, #some-recipes {
