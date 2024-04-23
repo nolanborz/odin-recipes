@@ -16,20 +16,42 @@
     color:rgb(131, 167, 162);
     background-color: beige;
     border: 2px black dotted;
-    
     margin:10px;
     padding: 5px;
-    width:auto
-    
-    
+    text-align: left;
     
 }
-.stuffing, #some-recipes {
-    color:rgb(90, 202, 165);
-    background-color: rgba(75, 39, 39, 0.76);
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font: weight 500px;
+.theTitle {
+    color:rgb(94, 43, 53);
+    background-color: rgb(247, 247, 194);
+    text-align: center;
+    margin: 10px;
+    border: pink dotted 2px;
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
 }
+.cakepic {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.quicktip {
+    color:black;
+    background-color:rgb(160, 241, 241);
+    padding: 5px;
+    border: pink dotted 2px;
+}
+
+.theBody {
+    color: black;
+    background-color: rgb(247, 247, 194);
+    padding: 5px;
+    border: pink dotted 2px;
+    margin: 10px;
+}
+
 .voiceheader {
     color: blue;
     background-color: aquamarine;
